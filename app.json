@@ -3,7 +3,7 @@
   "description": "Kevin, bot.",
   "keywords": ["kevin", "bot", "express"],
   "website": "https://tkoleary.com",
-  "repository": "https://github.com/koleary/EstherBot,
+  "repository": "https://github.com/koleary/KevinBot,
   "logo": "https://media.smooch.io/appicons/571e1c6b91fa6bff00c4a42d.jpg?t=1461591378840",
   "env": {
     "SMOOCH_APP_TOKEN": {
