@@ -8,8 +8,15 @@
     "KEVINBOT": "I'm here for you",
     "KEVINBOT?": "I'm here for you",
     "WHERE'S KEVIN?": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, type: 'slack'",
+    "WHERE'S KEVIN": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, type: 'slack'",
     "WHERE IS KEVIN?": "Kevin is in an undisclosed location, But if you want me to ping him in slack, type: 'slack'",
     "ARE YOU KEVIN?": "No I am KevinBot, But if you want me to ping Kevin in slack, type: 'slack'",
+    "WHO": "I am KevinBot. Kevins mechanical alter-ego.",
+    "WHO ARE YOU": "I am KevinBot. A Kevin has sent me on his behalf",
+    "WHO ARE YOU?": "I am KevinBot. A Kevin has sent me on his behalf",
+    "WHO IS THERE": "KevinBot",
+    "WHO IS THERE?": "KevinBot, your wish is my command",
+    "WHO'S THERE": "KevinBot, at your service",
     "KEVIN": "I am KevinBot. A superior, machine version of Kevin",
     "SLACK": "I have pinged Kevin. He'll get back to you right away",
     "HOW OLD IS KEVIN?": "Tsk, tsk, you should know better. But between us he's older than he looks",
@@ -18,4 +25,10 @@
     "IS KEVIN MARRIED?": "Well that's kind of personal, but yes, he is, and he has two beautiful children",
     "EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say",
     "WHO'S YOUR DADDY?": "Kevin is my creator. I don't have a 'daddy'"
+    "WHAT IS DRUPAL": "Check out http://www.Drupal.org for that information",
+    "WHAT IS DRUPAL?": "Check out http://www.Drupal.org for that information",
+    "WHAT'S DRUPAL?": "Check out http://www.Drupal.org for that information",
+    "DRUPAL?": "Check out http://www.Drupal.org for that information",
+    "WHAT DOES ACQUIA DO": "Acquia hosts and supports Drupal websites for Fortune 1000 customers. Find out more here: http://www.acquia.com",
+    "WHAT DOES ACQUIA DO?": "Acquia hosts and supports Drupal websites for Fortune 1000 customers. Find out more here: http://www.acquia.com"
 }
