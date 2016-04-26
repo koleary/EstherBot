@@ -5,7 +5,7 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, KevinBot is back.",
     "THERE?": "Yup, I'm here.",
-    "KevinBot?": "I'm here for you"
+    "KevinBot?": "I'm here for you",
     "WHERE'S KEVIN?": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, type: 'slack'",
     "WHERE IS KEVIN?": "Kevin is in an undisclosed location, But if you want me to ping him in slack, type: 'slack'",
     "ARE YOU KEVIN?": "No I am KevinBot, But if you want me to ping Kevin in slack, type: 'slack'",
