@@ -7,10 +7,10 @@
     "THERE?": "Yup, I'm here.",
     "KEVINBOT": "I'm here for you",
     "KEVINBOT?": "I'm here for you",
-    "WHERE'S KEVIN?": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, type: 'slack'",
-    "WHERE'S KEVIN": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, type: 'slack'",
-    "WHERE IS KEVIN?": "Kevin is in an undisclosed location, But if you want me to ping him in slack, type: 'slack'",
-    "ARE YOU KEVIN?": "No I am KevinBot, But if you want me to ping Kevin in slack, type: 'slack'",
+    "WHERE'S KEVIN?": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, say: ping",
+    "WHERE'S KEVIN": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, say: ping",
+    "WHERE IS KEVIN?": "Kevin is in an undisclosed location, But if you want me to ping him in slack, say: ping",
+    "ARE YOU KEVIN?": "No I am KevinBot, But if you want me to ping Kevin in slack, say: 'ping'",
     "WHO": "I am KevinBot. Kevins mechanical alter-ego.",
     "WHO ARE YOU": "I am KevinBot. A Kevin has sent me on his behalf",
     "WHO ARE YOU?": "I am KevinBot. A Kevin has sent me on his behalf",
@@ -18,10 +18,25 @@
     "WHO IS THERE?": "KevinBot, your wish is my command",
     "WHO'S THERE": "KevinBot, at your service",
     "KEVIN": "I am KevinBot. A superior, machine version of Kevin",
+    "KEVIN?": "I am KevinBot. A superior, machine version of Kevin",
     "SLACK": "I have pinged Kevin. He'll get back to you right away",
     "HOW OLD IS KEVIN?": "Tsk, tsk, you should know better. But between us he's older than he looks",
-    "WHERE DOES KEVIN LIVE?": "Kevin lives just outside Boston Massachusetts, and that's as specific as he'll let me be",
+    "WHERE DOES KEVIN LIVE?": "Kevin lives just outside Boston Massachusetts. That's as specific as he'll let me be. If you wan't to contact him, type your email address and he'll get back to you",
+    "WHAT IS KEVIN'S ADDRESS?": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you."
+    "WHAT IS KEVIN'S ADDRESS": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you."
+    "WHAT IS HIS ADDRESS": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you."
+    "WHAT IS HIS ADDRESS?": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you."
     "WHERE DOES KEVIN WORK?": "At present Kevin Works at Acquia, the enterprise guide to Drupal",
+    "WHAT IS KEVIN'S EMAIL?": "If you give me yours I'll have him email you.",
+    "WHAT IS KEVIN'S EMAIL": "If you give me yours I'll have him email you.",
+    "WHAT IS KEVIN'S WEBSITE?": "http://www.tkoleary.com",
+    "WHAT IS KEVIN'S WEBSITE": "http://www.tkoleary.com",
+    "WHAT'S KEVIN'S WEBSITE?": "http://www.tkoleary.com",
+    "WHAT'S KEVIN'S WEBSITE": "http://www.tkoleary.com",
+    "WHAT'S KEVIN'S SITE?": "http://www.tkoleary.com",
+    "WHAT IS KEVIN'S PHONE NUMBER?": "I can't say. Give me your name and numbe rand I'll have him call you."
+    "WHAT IS KEVIN'S PHONE NUMBER": "I can't tell you that. Give me your name and numbe rand I'll have him call you."
+    "WHERE IS KEVIN NOW?": "Kevin is in an undisclosed location. Say "ping" if you'd like me to ping him in Slack."
     "IS KEVIN MARRIED?": "Well that's kind of personal, but yes, he is, and he has two beautiful children",
     "EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say",
     "WHO'S YOUR DADDY?": "Kevin is my creator. I don't have a 'daddy'",
@@ -35,6 +50,6 @@
     "WHAT DOES ACQUIA DO": "Acquia hosts and supports Drupal websites for Fortune 1000 customers. Find out more here: http://www.acquia.com",
     "WHAT DOES ACQUIA DO?": "Acquia hosts and supports Drupal websites for Fortune 1000 customers. Find out more here: http://www.acquia.com",
     "OPEN THE POD BAY DOORS HAL": "I'm afraid I can't do that Dave",
-    "WHAT'S MY NAME?": "Meghan",
+    "WHAT'S MY NAME?": "How would I know that?",
     "YO": "Are you a gangster?"
 }
