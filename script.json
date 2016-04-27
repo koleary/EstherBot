@@ -28,6 +28,16 @@
     "WHERE IS HE NOW": "Kevin is in an undisclosed location. Say 'ping' if you'd like me to ping him in Slack.",
     "WHERE IS HE": "Kevin is in an undisclosed location. Say 'ping' if you'd like me to ping him in Slack.",
     "IS HE MARRIED": "Well that's kind of personal, but yes, he is, and he has two beautiful children",
+    "HOW OLD IS HE": "Tsk, tsk, you should know better (but between us he's older than he looks)."
+    "WHAT'S HIS BIRTH DATE": "Tsk, tsk, you should know better (but between us he's older than he looks)."
+    "WHAT IS HIS BIRTH DATE": "Tsk, tsk, you should know better (but between us he's older than he looks)."
+    "WHAT'S HIS BIRTH DAY": "July 6th",
+    "WHAT'S HIS BIRTHDAY": "July 6th",
+    "WHAT IS HIS BIRTH DAY": "July 6th",
+    "WHAT DAY WAS HE BORN": "July 6th",
+    "WHAT'S HIS SIGN": "Cancer",
+    "WHAT'S HIS ZODIAC SIGN": "Cancer",
+    "WHAT'S HIS STAR SIGN": "Cancer",
     "WHAT'S HIS EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say",
     "EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say",
     "WHO'S YOUR DADDY": "Kevin is my creator. I don't have a 'daddy'",
