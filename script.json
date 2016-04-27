@@ -22,8 +22,8 @@
     "SLACK": "I have pinged Kevin. He'll get back to you right away",
     "HOW OLD IS KEVIN?": "Tsk, tsk, you should know better. But between us he's older than he looks",
     "WHERE DOES KEVIN LIVE?": "Kevin lives just outside Boston Massachusetts. That's as specific as he'll let me be. If you wan't to contact him, type your email address and he'll get back to you",
-    "WHAT IS KEVIN'S ADDRESS?": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you."
-    "WHAT IS KEVIN'S ADDRESS": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you."
+    "WHAT IS KEVIN'S ADDRESS?": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you.",
+    "WHAT IS KEVIN'S ADDRESS": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you.",
     "WHAT IS HIS ADDRESS": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you."
     "WHAT IS HIS ADDRESS?": "I'm not allowed to tell you that. But if you give me your email I'll have him contact you."
     "WHERE DOES KEVIN WORK?": "At present Kevin Works at Acquia, the enterprise guide to Drupal",
@@ -34,9 +34,9 @@
     "WHAT'S KEVIN'S WEBSITE?": "http://www.tkoleary.com",
     "WHAT'S KEVIN'S WEBSITE": "http://www.tkoleary.com",
     "WHAT'S KEVIN'S SITE?": "http://www.tkoleary.com",
-    "WHAT IS KEVIN'S PHONE NUMBER?": "I can't say. Give me your name and numbe rand I'll have him call you."
-    "WHAT IS KEVIN'S PHONE NUMBER": "I can't tell you that. Give me your name and numbe rand I'll have him call you."
-    "WHERE IS KEVIN NOW?": "Kevin is in an undisclosed location. Say "ping" if you'd like me to ping him in Slack."
+    "WHAT IS KEVIN'S PHONE NUMBER?": "I can't say. Give me your name and numbe rand I'll have him call you.",
+    "WHAT IS KEVIN'S PHONE NUMBER": "I can't tell you that. Give me your name and numbe rand I'll have him call you.",
+    "WHERE IS KEVIN NOW?": "Kevin is in an undisclosed location. Say 'ping' if you'd like me to ping him in Slack.",
     "IS KEVIN MARRIED?": "Well that's kind of personal, but yes, he is, and he has two beautiful children",
     "EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say",
     "WHO'S YOUR DADDY?": "Kevin is my creator. I don't have a 'daddy'",
