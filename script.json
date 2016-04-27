@@ -1,5 +1,5 @@
 {
-    "HELLO": "I am KevinBot, I answer questions about Kevin on his behalf. Ask me questions like 'where does he work.' Since everything is a question about Kevin, you don't need to type 'Kevin' or use a question mark",
+    "HELLO": "I am KevinBot, I answer questions about Kevin on his behalf. Ask me questions like 'where does he work.' I only answer questions about Kevin, so you don't need to say 'Kevin' or add a question mark",
     "TWITTER": "Let's tweet @ Kevin so he knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/kevinbot-tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
