@@ -4,6 +4,7 @@
     "DISCONNECT": "Roger that, KevinBot is back.",
     "WHO IS KEVIN": "Kevin is my creator.",
     "WHO'S KEVIN": "Kevin is my creator.",
+    "WHERE IS KEVIN NOW": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, say: ping",
     "WHERE IS KEVIN": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, say: ping",
     "WHERE'S KEVIN": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, say: ping",
     "WHERE IS HE": "Kevin is in an undisclosed location, But if you want me to ping him in slack, say: ping",
@@ -35,6 +36,18 @@
     "WHERE DOES HE GET HIS SENSE OF HUMOR": "I belive he borrows liberally from old movies without attribution.",
     "EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say","DOES HE SPEAK ANY LANGUAGES": "English, of course, and basic Spanish.",
     "WHAT'S HIS EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say",
+    "WHAT'S HIS TITLE": "Director of design.",
+    "WHAT IS HIS TITLE": "Director of design.",
+    "WHAT IS HIS SALARY": "It's the amount of money he gets paid."
+    "WHAT IS HIS INCOME": "It's the thing upon which he survives."
+    "WHAT IS HIS COMPENSATION": "A combination of salary, bonus, stock options and benefits."
+    "I MEAN HOW MUCH": "A good deal.",
+    "HOW MUCH": "A fair amount.",
+    "HOW MUCH DOES HE MAKE": "A comfortable sum.",
+    "HOW MUCH DOES HE MAKE": "A good deal.",
+    "HOW MUCH IS HE PAID": "As much as he is worth.",
+    "REALLY, HOW MUCH": "Really, quite a bit.",
+    "SERIOUSLY, HOW MUCH": "Seriously, I'm not telling.",
     "DOES HE KNOW CSS": "Yes, CSS3, or Sass.",
     "DOES HE WRITE CSS": "Yes, CSS3, or Sass.",
     "CAN HE WRITE CSS": "Yes, CSS3, or Sass.",
