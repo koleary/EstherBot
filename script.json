@@ -2,7 +2,6 @@
     "HELLO": "I am KevinBot, I answer questions about Kevin on his behalf. Ask me questions like 'where does he work.' I only answer questions about Kevin, so you don't need to say 'Kevin' or add a question mark",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, KevinBot is back.",
-    
     "WHO IS KEVIN": "Kevin is my creator.",
     "WHO'S KEVIN": "Kevin is my creator.",
     "WHERE IS KEVIN": "Kevin isn't here Mrs. Torrence, But if you want me to ping him in slack, say: ping",
@@ -34,7 +33,6 @@
     "WHAT'S HIS FAVORITE COLOR": "Blue, no pink, aaaaaaaaaaaah.",
     "WHAT IS HIS FAVORITE COLOR": "Blue, no pink, aaaaaaaaaaaah.",
     "WHERE DOES HE GET HIS SENSE OF HUMOR": "I belive he borrows liberally from old movies without attribution.",
-
     "EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say","DOES HE SPEAK ANY LANGUAGES": "English, of course, and basic Spanish.",
     "WHAT'S HIS EXPERIENCE": "Kevin has over 20 years of experience in design and product innovation. 'Over' by how much, he won't let me say",
     "DOES HE KNOW CSS": "Yes, CSS3, or Sass.",
@@ -80,7 +78,6 @@
     "WHAT IS HIS PHONE NUMBER": "I can't tell you that. Give me your name and numbe rand I'll have him call you.",
     "WHERE IS HE NOW": "Kevin is in an undisclosed location. Say 'ping' if you'd like me to ping him in Slack.",
     "DOES HE KNOW DRIES": "Dries is Kevin's boss.",
-    
     "WHAT IS DRUPAL": "Check out http://www.Drupal.org for that information",
     "WHAT'S DRUPAL": "Check out http://www.Drupal.org for that information",
     "DRUPAL": "Check out http://www.Drupal.org for that information",
@@ -88,7 +85,6 @@
     "WHAT'S ACQUIA": "Acquia hosts and supports Drupal websites for Fortune 1000 customers. Find out more here: http://www.acquia.com",
     "ACQUIA": "Acquia hosts and supports Drupal websites for Fortune 1000 customers. Find out more here: http://www.acquia.com",
     "WHAT DOES ACQUIA DO": "Acquia hosts and supports Drupal websites for Fortune 1000 customers. Find out more here: http://www.acquia.com",
-    
     "WHO IS KEVINBOT": "I am KevinBot. Kevins mechanical alter-ego.",
     "KEVINBOT": "I'm here for you",
     "WHO": "I am KevinBot. Kevins mechanical alter-ego.",
