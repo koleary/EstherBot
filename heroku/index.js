@@ -52,6 +52,60 @@ function createWebhook(smoochCore, target) {
                     .then((res) => {
                         console.log('Smooch postback webhook created at target', res.webhook.target);
                     })
+'use strict';
+
+const smoochBot = require('smooch-bot');
+const MemoryLock = smoochBot.MemoryLock;
+const SmoochApiStore = smoochBot.SmoochApiStore;
+const SmoochApiBot = smoochBot.SmoochApiBot;
+const StateMachine = smoochBot.StateMachine;
+const app = require('../app');
+const script = require('../script');
+const SmoochCore = require('smooch-core');
+const jwt = require('../jwt');
+const fs = require('fs');
+
+class BetterSmoochApiBot extends SmoochApiBot {
+    constructor(options) {
+        super(options);
+    }
+
+    sendImage(imageFileName) {
+        const api = this.store.getApi();
+        let message = Object.assign({
+            role: 'appMaker'
+        }, {
+            name: this.name,
+            avatarUrl: this.avatarUrl
+        });
+        var real = fs.realpathSync(imageFileName);
+        let source = fs.readFileSync(real);
+
+        return api.conversations.uploadImage(this.userId, source, message);
+    }
+}
+
+const name = 'SmoochBot';
+const avatarUrl = 'https://s.gravatar.com/avatar/f91b04087e0125153623a3778e819c0a?s=80';
+const store = new SmoochApiStore({
+    jwt
+});
+const lock = new MemoryLock();
+
+function createWebhook(smoochCore, target) {
+    return smoochCore.webhooks.create({
+            target,
+            triggers: ['message:appUser']
+        })
+        .then((res) => {
+            console.log('Smooch webhook created at target', res.webhook.target);
+            return smoochCore.webhooks.create({
+                        target,
+                        triggers: ['postback']
+                    })
+                    .then((res) => {
+                        console.log('Smooch postback webhook created at target', res.webhook.target);
+                    })
                     .catch((err) => {
                         console.error('Error creating Smooch webhook:', err);
                         console.error(err.stack);
