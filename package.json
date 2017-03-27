@@ -5,8 +5,8 @@
   "author": "Andrew Lavers <alavers@system42.net>",
   "main": "index.js",
   "engines": {
-    "node": ">=4.2.2",
-    "npm": ">=3.7.0"
+    "node": "4.2.2",
+    "npm": "3.7.0"
   },
   "scripts": {
     "test": "mocha"
