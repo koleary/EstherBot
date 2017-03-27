@@ -1,7 +1,7 @@
 {
-  "name": "smooch-bot",
+  "name": "kevinbot",
   "version": "1.0.4",
-  "description": "Build your own chat bot on top of smooch.io",
+  "description": "Kevin's chat bot built on top of smooch.io",
   "author": "Andrew Lavers <alavers@system42.net>",
   "main": "index.js",
   "engines": {
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/smooch/smooch-bot"
+    "url": "https://github.com/koleary/KevinBot"
   },
   "bugs": {
-    "url": "https://github.com/smooch/smooch-bot/issues"
+    "url": "https://github.com/koleary/KevinBot/issues"
   },
   "keywords": [
-    "smooch",
+    "kevin",
     "bot"
   ],
   "dependencies": {
