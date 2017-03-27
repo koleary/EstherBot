@@ -4,8 +4,8 @@
   "description": "Smooch Bot Example Apps",
   "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
   "engines": {
-      "node": ">=4.2.2",
-      "npm": ">=3.7.0"
+      "node": "4.2.2",
+      "npm": "3.7.0"
   },
   "license": "MIT",
   "dependencies": {
